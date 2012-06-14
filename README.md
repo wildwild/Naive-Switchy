@@ -22,7 +22,7 @@ The simplest Chrome extension for bypassing the Internet censorship in P.R.China
 
 This project is under MIT license.
 
-    Copyright (C) 2012 Bo Zhu http://fun.bozhu.me
+    Copyright (C) 2012 Bo Zhu http://zhuzhu.org
 
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this software and associated documentation files (the "Software"),
